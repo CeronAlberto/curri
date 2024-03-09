@@ -79,7 +79,7 @@ list-style: none;
 
 }
 
-@media(max-width:360px){
+@media(max-width:768px){
     body{background-color:lightblue ;
         padding-top: 70px;
     }

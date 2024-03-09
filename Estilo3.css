@@ -81,7 +81,7 @@ list-style: none;
 }
 
 @media(max-width:768px){
-    body{background-color: lilac;
+    body{background-color: lightblue;
         padding-top: 70px;
     }
 
